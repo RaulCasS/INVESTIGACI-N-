@@ -56,7 +56,7 @@ Un sensor es un dispositivo que detecta el cambio en el entorno y responde a alg
 11. Sensores digitales: utilizados para conteo discreto de encendido / apagado, codificación lineal y rotativa, mediciones de posición, etc.
 12. Sensores de posicionamiento (GPS): se utilizan para capturar la posición longitudinal, latitudinal basada en GPS, GLONASS y otros sistemas de posicionamiento satelital. Diferentes sensores GPS con diferente precisión están disponibles.
 
-https://github.com/RaulCasS/INVESTIGACI-N-/blob/main/SENSORES.jpg?raw=true
+![](https://github.com/RaulCasS/INVESTIGACI-N-/blob/main/SENSORES.jpg?raw=true)
 
 Grant Maloy Smith, jueves, 21 de noviembre de 2024 · 35 min read
 
@@ -68,6 +68,8 @@ El Acondicionamiento de señal es uno de los componentes fundamentales de un dis
 Como su nombre lo indica, se encargan de acondicionar señales para que el subsistema A/D pueda convertirlas en el dominio digital y luego mostrarlas, almacenarlas y analizarlas.
 
 ## Tipos comunes de acondicionadores de señal:
+
+![]()
 
 
 
