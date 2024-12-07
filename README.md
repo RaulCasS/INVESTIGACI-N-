@@ -56,6 +56,8 @@ Un sensor es un dispositivo que detecta el cambio en el entorno y responde a alg
 11. Sensores digitales: utilizados para conteo discreto de encendido / apagado, codificación lineal y rotativa, mediciones de posición, etc.
 12. Sensores de posicionamiento (GPS): se utilizan para capturar la posición longitudinal, latitudinal basada en GPS, GLONASS y otros sistemas de posicionamiento satelital. Diferentes sensores GPS con diferente precisión están disponibles.
 
+
+
 Grant Maloy Smith, jueves, 21 de noviembre de 2024 · 35 min read
 
 URL: https://dewesoft.com/es/blog/que-es-un-sensor
